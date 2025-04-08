@@ -1,4 +1,4 @@
-# Prueba Práctica - Business Analyst (BI)/Analista de Negocios
+# Prueba Práctica - Business Analyst (BA)/Analista de Negocios
 
 ## INTRODUCCIÓN
 El objetivo de esta prueba es evaluar las competencias clave de un Business Analyst (BA) en la identificación, análisis, documentación y comunicación de requerimientos, así como en la comprensión de procesos de negocio y colaboración dentro de equipos ágiles.
