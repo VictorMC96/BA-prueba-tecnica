@@ -18,8 +18,8 @@ El objetivo de esta prueba es evaluar las competencias clave de un Business Anal
 
 ## INSTRUCCIONES
 * Responde cada sección de manera clara y estructurada
-* Crear un archivo comprimido (_.zip_ o _.rar_) con la documentación generada
-* Enviar la prueba tecnica al correo de la consultora y enviar copia a las siguientes direcciones de correo electrónico vmiranda@neology.mx y lluna@neopartners.mx
+* Crea un archivo comprimido (_.zip_ o _.rar_) con la documentación generada
+* Envia la prueba tecnica al correo de la consultora y copia a las siguientes direcciones de correo electrónico vmiranda@neology.mx y lluna@neopartners.mx
 
 ## ESCENARIO 
 Tu cliente es una empresa de movilidad que quiere lanzar una nueva aplicación web para que los usuarios puedan acceder a sus servicios de alquiler de bicicletas eléctricas. La aplicación debe incluir las siguientes funcionalidades principales:
@@ -49,7 +49,8 @@ Identifica al menos 3 áreas de mejora que podrían surgir durante el análisis 
 * Historias de usuario con criterios de aceptación
 * Descripción del modelado de procesos (BPMN)
 * Tabla de backlog priorizado
-  
+
+***
 
 En Neology somos fieles creyentes de la transparencia, honestidad, crecimiento y aprendizaje por lo que agradecemos se pueda llevar a cabo la prueba sin ayuda de terceros o herramientas adicionales.
    
