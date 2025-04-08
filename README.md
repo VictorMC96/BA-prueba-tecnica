@@ -49,4 +49,7 @@ Identifica al menos 3 áreas de mejora que podrían surgir durante el análisis 
 * Historias de usuario con criterios de aceptación
 * Descripción del modelado de procesos (BPMN)
 * Tabla de backlog priorizado
+  
+
+En Neology somos fieles creyentes de la transparencia, honestidad, crecimiento y aprendizaje por lo que agradecemos se pueda llevar a cabo la prueba sin ayuda de terceros o herramientas adicionales.
    
